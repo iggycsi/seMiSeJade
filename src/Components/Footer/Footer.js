@@ -4,7 +4,6 @@ import { Col } from 'react-bootstrap';
 function Footer(){
     return(
         <div className="Footer">
-			<h1>Aceeeeeeeeeeeeeeeeee</h1>
 
 			<Col className=" footer">
 				<div className="row ftAll">
