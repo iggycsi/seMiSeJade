@@ -7,7 +7,7 @@ function RightSideBar() {
           
           <div className="header" role="banner">
                     <h1 className="logo">
-                        <a href="#">Ресторанти <span>& Кафебарови</span></a>
+                        <a href="#">Ресторани <span>& Кафе - барови</span></a>
                     </h1>
                     <div className="nav-wrap">
                         <nav className="main-nav" role="navigation">
